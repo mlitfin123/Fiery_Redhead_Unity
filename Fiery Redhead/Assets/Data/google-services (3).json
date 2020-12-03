@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "46223353263",
+    "firebase_url": "https://fiery-redhead.firebaseio.com",
+    "project_id": "fiery-redhead",
+    "storage_bucket": "fiery-redhead.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46223353263:android:adaf5958829627a4473b5a",
+        "android_client_info": {
+          "package_name": "com.litproductions.fieryredhead"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46223353263-5hgela52nkd9r4b9u30g8k3b7m490pcp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT_Dsy4j6xY5B8B28jts9dUQZcNaepVuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "46223353263-5hgela52nkd9r4b9u30g8k3b7m490pcp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "46223353263-h18phfbhl815pft2gn9vdel3781obs66.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.litproductions.fieryredhead"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
